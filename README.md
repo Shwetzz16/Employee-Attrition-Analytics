@@ -7,7 +7,7 @@ A data-driven analysis exploring the factors contributing to employee attrition 
 
 ## 📊 Project Overview
 
-This project aims to analyze and predict employee attrition using various demographic, job satisfaction, and performance metrics. The notebook performs exploratory data analysis (EDA), feature engineering, model training, and evaluation.
+This project aims to analyze and predict employee attrition using various demographic, job satisfaction, and performance metrics. The notebook performs exploratory data analysis (EDA), and evaluation.
 
 ---
 
@@ -23,10 +23,8 @@ This project aims to analyze and predict employee attrition using various demogr
 
 1. **Data Understanding:** Overview of features, correlations, and trends.  
 2. **Data Preprocessing:** Handling missing values, encoding, and normalization.  
-3. **Exploratory Data Analysis (EDA):** Visual insights into attrition patterns.  
-4. **Modeling:** Multiple models compared (Logistic Regression, Random Forest, XGBoost, etc.).  
-5. **Evaluation:** Model accuracy, precision, recall, and ROC-AUC comparison.  
-6. **Conclusion:** Key findings and actionable insights.
+3. **Exploratory Data Analysis (EDA):** Visual insights into attrition patterns.    
+4. **Conclusion:** Key findings and actionable insights.
 
 ---
 
@@ -34,7 +32,7 @@ This project aims to analyze and predict employee attrition using various demogr
 
 - High attrition observed among employees with lower job satisfaction.  
 - Overtime and low income are strong predictors of attrition.  
-- Random Forest achieved the best overall accuracy of **XX%**.
+
 
 ---
 
