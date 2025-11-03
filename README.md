@@ -50,7 +50,8 @@ This project aims to analyze and predict employee attrition using various demogr
    git clone https://github.com//Shwetzz16/Employee-Attrition-Analytics.git
    cd Employee-Attrition-Analytics
 2.Install dependencies:
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 3.Open Jupyter Notebook:
 jupyter notebook
